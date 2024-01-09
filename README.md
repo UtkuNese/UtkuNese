@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utku Nese</h1>
 <h3 align="center">CyberSecurity | Software</h3>
-[](https://komarev.com/ghpvc/?username=UtkuNese&style=flat-square
+(https://komarev.com/ghpvc/?username=UtkuNese&style=flat-square
 
 - 🌱 I’m currently learning **Node.js**
 
